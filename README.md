@@ -33,6 +33,6 @@ I'm committed to improving my knowledge and staying at the forefront of technolo
 You can find me on various social platforms and stay updated on my tech journey and insights. Feel free to connect and engage with me:
 
 - LinkedIn: https://www.linkedin.com/in/siphamandla-mjoli-757084a0/
-- Twitter: https://twitter.com/brianspha_
+- Twitter: <a href="https://twitter.com/brianspha_">brianspha_</a>
 
 Let's collaborate and create remarkable solutions together! Please feel free to contact me if you have any questions or new opportunities.
