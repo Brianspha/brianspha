@@ -22,6 +22,8 @@ I am Full Stack Developer with a passion for Game Development, Blockchain Resear
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=brianspha&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianspha&theme=neon&hide_border=false"  width="400px" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=brianspha)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=brianspha&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 🌐 Connect with Me
