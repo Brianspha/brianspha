@@ -1,6 +1,6 @@
 👋 Hi there,
 
-I am a Full Stack Developer with a keen interest in Game Development, Blockchain Research, and Cross-Platform Mobile Application Development using Flutter. I am currently enhancing my skill set by learning Rust and exploring Zero-Knowledge Proofs. I am also pursuing an MSc in Data Privacy, focusing on clinical trials. Dedicated and forward-thinking, I am particularly passionate about developing both custodial and non-custodial Web3 wallets.
+I am a Full Stack Developer (With a Focus on Smart Contract Development) with a keen interest in Game Development, Blockchain Research, and Cross-Platform Mobile Application Development using Flutter. I am currently enhancing my skill set by learning Rust and exploring Zero-Knowledge Proofs. I am also pursuing an MSc in Data Privacy, focusing on clinical trials. Dedicated and forward-thinking, I am particularly passionate about developing both custodial and non-custodial Web3 wallets.
 
 
 # 💻 Tech Stack
